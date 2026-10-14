@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "name": "Iphone 18",
+    "price": "30000",
+    "cate_id": 1,
+    "image": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/1989188678.png"
+  },
+  {
+    "id": "2",
+    "name": "Iphone 17",
+    "price": "20000",
+    "cate_id": 1,
+    "image": "https://cdn.mediamart.vn/images/product/apple-iphone-17-pro-max-256gb-bac_20b131a1.webp"
+  },
+  {
+    "id": "3",
+    "name": "Isum 16",
+    "price": "150000",
+    "cate_id": 1,
+    "image": "https://cdn.mediamart.vn/images/product/apple-iphone-16-128gb-hong_db897b48.webp"
+  },
+  {
+    "id": "4",
+    "name": "samsum",
+    "price": "50000",
+    "cate_id": 1,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/281570/iphone-15-xanh-thumb-600x600.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Laptop",
+    "price": "99000",
+    "cate_id": 2,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/281570/iphone-15-xanh-thumb-600x600.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Laptop gameing",
+    "price": "50000",
+    "cate_id": 2,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/281570/iphone-15-xanh-thumb-600x600.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Tablate",
+    "price": "50000",
+    "cate_id": 3,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/281570/iphone-15-xanh-thumb-600x600.jpg"
+  }
+]
